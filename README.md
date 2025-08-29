@@ -1,6 +1,6 @@
 # BracU-CSE111-Summer-25
 
- This repository contains lab assignments problems, solutions and resources for CSE111.
+This repository contains lab assignments problems, solutions and resources for CSE111.
 
 
 
