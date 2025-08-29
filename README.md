@@ -82,6 +82,3 @@ This repository contains lab assignments problems, solutions and resources for C
 
 
 
-
-
-contains lab assignments, their solutions and necessar
